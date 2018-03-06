@@ -1,0 +1,18 @@
+.back_img {
+    background-image: url("https://wallpapercave.com/wp/RAb96Xd.jpg");
+    width: 100vw;
+    height: 90vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.trainee_invite_welcome {
+    position: relative;
+    left: 0;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    font-family: Futura;
+}

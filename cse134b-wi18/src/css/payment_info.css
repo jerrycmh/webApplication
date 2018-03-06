@@ -1,0 +1,54 @@
+.pay_text{
+    font-family: "Times New Roman", Times, Serif;
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+}
+
+.card_info{
+    text-align: center;
+}
+
+.field-card-style{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.field-billing-style{
+    width: 50%;
+    margin-left: 25%;
+}
+
+input[type=text] {
+    padding:5px;
+    border:2px solid #ccc;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    font-size: 32px;
+}
+
+input[type=text]:focus {
+    border-color:#333;
+}
+
+input[type=submit] {
+    padding:14px 40px;
+    background:#ccc;
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-text-size-adjust: auto;
+}
+
+.form-group{
+    height: 200%;
+    weight: 200%;
+}
+
+.foo{
+    width: 250px;
+    padding: 15px;
+    margin-top: 15px;
+    -webkit-box-sizing: border-box;
+}

@@ -1,0 +1,31 @@
+.create_leftColumn{
+    margin-left: 400px;
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+.create_rightColumn{
+    text-align: center;
+}
+
+.foo {
+    padding: 15px;
+    margin: 15px;
+}
+
+.fee{
+    margin-top: 20px;
+}
+
+.create_button{
+    padding: 14px 40px;
+}
+
+.create_login{
+    padding-top: 20px;
+}
+
+.create_rightColumn{
+    clear: both;
+}

@@ -1,0 +1,39 @@
+.head_intro {
+    text-align:center;
+    clear: both;
+}
+
+.welcome {
+    color:white;
+}
+
+#inputFields {
+    display: flex;
+    justify-content: center;
+    background-image: url("http://www.themefoxx.com/wp-content/uploads/2017/02/Mountain-wallpapers-download-1.png");
+    width: 100vw;
+    height: 90vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.exerciseBox input{
+    margin: 1rem;
+    min-height: 300%;
+    min-width: 100%;
+    color:white;
+}
+
+.submitButt input{
+    width: 100%;
+    background-color: #1eaf2b;
+    color: white;
+    padding: 14px 20px;
+    margin: 30px 0;
+}
+
+#specialStyle  {
+    margin: 1rem;
+    color:white;
+}

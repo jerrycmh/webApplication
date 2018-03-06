@@ -1,0 +1,41 @@
+.congratulations_p{
+    width: 500px;
+    height: 100px;
+    font-family: "Times New Roman",Times,Serif;
+    font-size: 50px;
+    margin: 0 auto;
+    display: inline-block;
+    color: red;
+
+}
+.congratulations_img{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    display: inline-block;
+}
+
+.sharefb_button{
+    background-color: #3b5998;
+    text-align: center;
+    color:white;
+    padding: 14px 40px;
+    margin: 0 auto;
+}
+
+.button_container{
+    text-align: center;
+}
+
+.paragraph_container{
+    text-align: center;
+}
+
+.bg_img {
+    background-image: url("../images/confetti.gif");
+    width: 100vw;
+    height: 90vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}

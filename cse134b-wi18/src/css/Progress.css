@@ -1,0 +1,8 @@
+#main_container {
+    min-width: 250px;
+    max-width: 100%;
+}
+
+#congratulations_container {
+    display: none;
+}

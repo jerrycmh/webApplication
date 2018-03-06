@@ -1,0 +1,61 @@
+.padding {
+    padding-right: 200px;
+    padding-left: 200px;
+    clear:both;
+}
+
+#chat_container {
+    overflow: scroll;
+}
+
+#typing_indicator {
+    display: none;
+}
+
+.message_title {
+    text-align: center;
+}
+
+.trainer-bubble {
+    float: left;
+    clear: both;
+    margin: 10px 10px 10px 10px;
+    width: auto;
+    height: auto;
+    background: #0B93F6;
+    position: relative;
+    border-radius: 10px;
+    display: block;
+    padding: 0px 10px 0px 10px;
+
+}
+
+.trainer-bubble p {
+    color:white;
+}
+.trainee-bubble {
+    float: right;
+    clear: both;
+    margin: 10px 10px 10px 10px;
+    width: auto;
+    height: auto;
+    background: #E5E5EA;
+    position: relative;
+    border-radius: 10px;
+    display: block;
+    padding: 0px 10px 0px 10px;
+}
+
+.type_message{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    min-height:auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.text_box {
+    height: 40px;
+    width: 1000px;
+}

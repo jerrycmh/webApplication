@@ -1,0 +1,32 @@
+.title{
+    font-family: "Times New Roman", Times, Serif;
+    font-size: 30px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.img{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    display: inline-block;
+}
+
+.form{
+    text-align: center;
+}
+
+.foo{
+    width: 250px;
+    padding: 15px;
+    margin-top: 15px;
+    -webkit-box-sizing: border-box;
+}
+
+.fee{
+    margin-top: 20px;
+}
+
+.uploading{
+    text-align: center;
+}

@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fafafa;
+    color: #1b1b1b;
+    margin: 0;
+}
+
+#top_bar {
+    max-width: 100%;
+    margin: 0;
+    padding: 10px;
+    background-color: #f8f8f8;
+    box-shadow: 0 1px 1px darkgrey;
+}
+
+#logo_img {
+    width: 45px;
+    height: 45px;
+}
+
+#main_container {
+    width: 50%;
+}
+
+#main_container1{
+    width: 100%;
+}
+
+.align_to_center {
+    align-self: center;
+}
+
+.justify_to_center {
+    justify-self: center;
+}
+
+.block_container {
+    display: block;
+    clear: both;
+}
+
+.flex_box {
+    display: flex;
+}
+
+.flex_row {
+    flex-direction: row;
+}
+
+.flex_row_wrappable {
+    flex-direction: row;
+    flex-flow: row wrap;
+}
+
+.flex_col {
+    flex-direction: column;
+}
+
+.justify_center {
+    justify-content: center;
+}
+
+.justify_start {
+    justify-content: flex-start;
+}
+
+.justify_end {
+    justify-content: flex-end;
+}
+
+.justify_space_between {
+    justify-content: space-between;
+}
+
+.align_center {
+    align-content: center;
+}
